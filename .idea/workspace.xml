@@ -22,6 +22,7 @@
     <list default="true" id="2f0ffaae-7728-49a5-9148-850dd3909a80" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../CSS/01 Assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSS/01 Assignment/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assert/Script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assert/Script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assert/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assert/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -82,7 +83,7 @@
       <workItem from="1648704187912" duration="10376000" />
       <workItem from="1648752496564" duration="2923000" />
       <workItem from="1648900819909" duration="49000" />
-      <workItem from="1648901051195" duration="1836000" />
+      <workItem from="1648901051195" duration="2138000" />
     </task>
     <servers />
   </component>
