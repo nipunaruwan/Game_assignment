@@ -83,4 +83,15 @@ $(function () {
                 stop_the_game();
 
             }
+            if (bird_go === 'down') {
+                bird_down();
+            } else if (bird_go === 'up') {
+                bird_up();
+            }
 
+            anim_id = requestAnimationFrame(repeat);
+
+        }
+    }
+
+    anim_id = requestAnimationFrame(repeat);
