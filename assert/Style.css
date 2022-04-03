@@ -58,3 +58,8 @@ body {
     border: none;
     display: none;
 }
+#winner{
+    background-color: #C52222;
+    padding: 15px;
+    cursor: pointer;
+}
