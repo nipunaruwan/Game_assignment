@@ -64,4 +64,23 @@ $(function () {
                 bird_go = 'up';
 
             } else
-                
+            if (parseInt(bird.css('left')) <= 0) {
+
+                bird_right_left = 'right';
+
+            } else if (parseInt(bird.css('left')) >= container_width - bird_width) {
+
+                bird_right_left = 'left';
+
+            } else if (parseInt(bird.css('top')) <= 0) {
+
+                who_won = 1;
+                stop_the_game();
+
+            } else if (parseInt(bird.css('top')) >= (container_height - bird_height)) {
+
+                who_won = 2;
+                stop_the_game();
+
+            }
+
