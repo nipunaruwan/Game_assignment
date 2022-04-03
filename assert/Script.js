@@ -57,3 +57,11 @@ $(function () {
 
 
             } else if (collision(bird, pole_2)) {
+                bleft = parseInt(bird.css('left')) + bird_width / 2;
+                pleft = parseInt(pole_2.css('left')) + pole_width / 2;
+                bird_right_left = (bleft > pleft ? 'right' : 'left');
+                right_left_angle = Math.abs((pleft - bleft)) / 7; //console.log(right_left_angle);
+                bird_go = 'up';
+
+            } else
+                
