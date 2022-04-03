@@ -14,3 +14,13 @@ body {
      margin-left: 20%;
      overflow: hidden;
  }
+#bird {
+      position: absolute;
+      background: white;
+      height: 20px;
+      width: 20px;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      top: 20%;
+      left: 50%;
+  }
