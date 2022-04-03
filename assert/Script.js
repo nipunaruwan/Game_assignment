@@ -120,3 +120,33 @@ $(function () {
             move_right1 = requestAnimationFrame(right1);
         }
     }
+    //Player 1 controls
+
+    $(document).on('keydown', function (e) {
+        var key = e.keyCode;
+        if (key === 37 && move_left === false && game_over === false) {
+            move_left = requestAnimationFrame(left);
+        } else if (key === 39 && move_right === false && game_over === false) {
+            move_right = requestAnimationFrame(right);
+        } else if (key === 65 && move_left1 === false && game_over === false) {
+            move_left1 = requestAnimationFrame(left1);
+        } else if (key === 83 && move_right1 === false && game_over === false) {
+            move_right1 = requestAnimationFrame(right1);
+        }
+    });
+    $(document).on('keyup', function (e) {
+        var key = e.keyCode;
+        if (key === 37 && game_over === false) {
+            cancelAnimationFrame(move_left);
+            move_left = false;
+        } else if (key === 39 && game_over === false) {
+            cancelAnimationFrame(move_right);
+            move_right = false;
+        } else if (key === 65 && game_over === false) {
+            cancelAnimationFrame(move_left1);
+            move_left1 = false;
+        } else if (key === 83 && game_over === false) {
+            cancelAnimationFrame(move_right1);
+            move_right1 = false;
+        }
+    });
