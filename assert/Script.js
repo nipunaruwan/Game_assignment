@@ -102,3 +102,9 @@ $(function () {
             move_left = requestAnimationFrame(left);
         }
     }
+    function right() {
+        if (parseInt(pole_2.css('left')) < (container_width - pole_width)) {
+            pole_2.css('left', parseInt(pole_2.css('left')) + 15);
+            move_right = requestAnimationFrame(right);
+        }
+    }
