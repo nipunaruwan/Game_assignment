@@ -24,3 +24,10 @@ body {
       top: 20%;
       left: 50%;
   }
+.pole {
+    position: absolute;
+    height: 20px;
+    width: 150px;
+    background-color: white;
+    left: 50%;
+}
