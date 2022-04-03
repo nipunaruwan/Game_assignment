@@ -4,3 +4,13 @@ body {
     margin: 0;
     background-color: #C52222;
 }
+#container {
+     position: relative;
+     height: 400px;
+     width: 60%;
+     top: 20px;
+     /*border: 2px solid #FFFFFF;*/
+     background-color: #171717;
+     margin-left: 20%;
+     overflow: hidden;
+ }
