@@ -5,6 +5,7 @@ body {
     background-color: #C52222;
 }
 #container {
+    background-image: url("../image/images.jpg");
      position: relative;
      height: 400px;
      width: 60%;
