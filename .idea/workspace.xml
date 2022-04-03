@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f0ffaae-7728-49a5-9148-850dd3909a80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/icon/icons8-ball-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/icons8-ball-64.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CSS/01 Assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSS/01 Assignment/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assert/Script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assert/Script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assert/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assert/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -56,7 +57,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../fall-game-master (1)" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/New folder/JqueryGame" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -66,6 +67,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\2nd-semester\webDevelop\My project\My_Project\java script\Game Assignment\icon" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,7 +89,7 @@
       <workItem from="1648704187912" duration="10376000" />
       <workItem from="1648752496564" duration="2923000" />
       <workItem from="1648900819909" duration="49000" />
-      <workItem from="1648901051195" duration="3241000" />
+      <workItem from="1648901051195" duration="5076000" />
     </task>
     <servers />
   </component>
@@ -103,9 +109,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1648901105356">
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1648971940870">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1648971940870" />
     <state x="740" y="271" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1648901105356" />
     <state x="461" y="161" key="SettingsEditor" timestamp="1648901109687">
       <screen x="0" y="0" width="1920" height="1032" />

@@ -160,7 +160,6 @@ $(function () {
             bird.css('left', parseInt(bird.css('left')) + (right_left_angle));
         }
     }
-
     function bird_down() {
         bird.css('top', parseInt(bird.css('top')) + (top_angle));
         if (bird_right_left === 'left') {
