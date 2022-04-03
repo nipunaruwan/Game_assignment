@@ -96,3 +96,9 @@ $(function () {
 
     anim_id = requestAnimationFrame(repeat);
 /* -----------------------------------------  Controls  ---------------------------------------------------------------------------- */
+    function left() {
+        if (parseInt(pole_2.css('left')) > 0) {
+            pole_2.css('left', parseInt(pole_2.css('left')) - 15);
+            move_left = requestAnimationFrame(left);
+        }
+    }
