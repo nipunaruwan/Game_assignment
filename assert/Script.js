@@ -114,3 +114,9 @@ $(function () {
             move_left1 = requestAnimationFrame(left1);
         }
     }
+    function right1() {
+        if (parseInt(pole_1.css('left')) < (container_width - pole_width)) {
+            pole_1.css('left', parseInt(pole_1.css('left')) + 15);
+            move_right1 = requestAnimationFrame(right1);
+        }
+    }
