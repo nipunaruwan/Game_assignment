@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f0ffaae-7728-49a5-9148-850dd3909a80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/images.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/music/Fluffing-a-Duck.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CSS/01 Assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSS/01 Assignment/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -68,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\2nd-semester\webDevelop\My project\My_Project\java script\Game Assignment\image" />
       <recent name="E:\2nd-semester\webDevelop\My project\My_Project\java script\Game Assignment\music" />
       <recent name="E:\2nd-semester\webDevelop\My project\My_Project\java script\Game Assignment\icon" />
     </key>
@@ -88,7 +90,7 @@
       <workItem from="1648704187912" duration="10376000" />
       <workItem from="1648752496564" duration="2923000" />
       <workItem from="1648900819909" duration="49000" />
-      <workItem from="1648901051195" duration="6535000" />
+      <workItem from="1648901051195" duration="6832000" />
     </task>
     <servers />
   </component>

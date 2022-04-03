@@ -2,10 +2,10 @@ body {
     height: 100%;
     width: 100%;
     margin: 0;
-    background-color: #C52222;
+   background-image: url("../image/images.jpg");
 }
 #container {
-    background-image: url("../image/images.jpg");
+
      position: relative;
      height: 400px;
      width: 60%;
