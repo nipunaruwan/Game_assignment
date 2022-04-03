@@ -29,7 +29,7 @@ image-resolution: normal;
     position: absolute;
     height: 20px;
     width: 150px;
-    background-color: white;
+    background-color: #230ae0;
     left: 50%;
 }
 
@@ -45,7 +45,7 @@ image-resolution: normal;
    /* text-align: center;*/
   /*  font-size: 30px;*/
     font-family: sans-serif;
-    color: white;
+    color: #ffffff;
 }
 #restart_btn {
     position: absolute;
