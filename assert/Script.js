@@ -18,3 +18,28 @@ $(function () {
     var bird_left = parseInt(bird.css('left'));
     var bird_height = parseInt(bird.height());
     var bird_width = parseInt(bird.width());
+
+    //some other declarations
+    var go_up = false;
+    var go_down = true;
+    var game_over = false;
+
+    var bleft;
+    var pleft;
+
+    /*ssdsdsdsdsd*/
+
+    var bird_go = 'down';
+    var bird_right_left = 'right';
+
+    var top_angle = 6; // 7 - 14 ???
+    var right_left_angle = 0; //0 - 20
+
+    var move_right = false;
+    var move_left = false;
+
+    var move_right1 = false;
+    var move_left1 = false;
+
+    var who_won;
+/*dsdsdsdsdsds*/
