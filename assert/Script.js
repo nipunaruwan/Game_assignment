@@ -173,7 +173,7 @@ $(function () {
         cancelAnimationFrame(anim_id);
         cancelAnimationFrame(move_right);
         cancelAnimationFrame(move_left);
-      /*  cancelAnimationFrame(move_right1);*/
+        cancelAnimationFrame(move_right1);
         /*cancelAnimationFrame(move_left1);*/
        /* game_over = true;*/
        /* restart_btn.html('<span>Player ' + who_won + ' won</span><br><br><span id="winner">Restart</span>').show();
