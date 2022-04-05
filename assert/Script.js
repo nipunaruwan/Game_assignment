@@ -171,7 +171,7 @@ $(function () {
     function stop_the_game() {
 
         cancelAnimationFrame(anim_id);
-     /*   cancelAnimationFrame(move_right);*/
+        cancelAnimationFrame(move_right);
       /*  cancelAnimationFrame(move_left);*/
       /*  cancelAnimationFrame(move_right1);*/
         /*cancelAnimationFrame(move_left1);*/
