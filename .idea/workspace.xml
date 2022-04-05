@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f0ffaae-7728-49a5-9148-850dd3909a80" name="Default Changelist" comment="" />
+    <list default="true" id="2f0ffaae-7728-49a5-9148-850dd3909a80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assert/Script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assert/Script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +90,7 @@
       <workItem from="1648752496564" duration="2923000" />
       <workItem from="1648900819909" duration="49000" />
       <workItem from="1648901051195" duration="11415000" />
-      <workItem from="1649137766698" duration="686000" />
+      <workItem from="1649137766698" duration="991000" />
     </task>
     <servers />
   </component>
